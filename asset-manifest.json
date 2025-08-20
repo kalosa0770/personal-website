@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.2fdc6c55.css",
+    "main.js": "/personal-website/static/js/main.a8d8f144.js",
+    "static/js/453.ad7768ec.chunk.js": "/personal-website/static/js/453.ad7768ec.chunk.js",
+    "static/media/elijah.jpg": "/personal-website/static/media/elijah.ab319574ebcaa38bb658.jpg",
+    "index.html": "/personal-website/index.html",
+    "main.2fdc6c55.css.map": "/personal-website/static/css/main.2fdc6c55.css.map",
+    "main.a8d8f144.js.map": "/personal-website/static/js/main.a8d8f144.js.map",
+    "453.ad7768ec.chunk.js.map": "/personal-website/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fdc6c55.css",
+    "static/js/main.a8d8f144.js"
+  ]
+}
